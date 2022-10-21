@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Keval/.gradle/caches/transforms-2/files-2.1/a39556f24edcf2d9f7f1f89d6e6133a3/appcompat-1.3.0-alpha01/res/drawable/abc_ic_ab_back_material.xml" value="0.203" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_add_fab__transaction_.xml" value="0.25" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_add_payament_for_plots.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_add_payament_for_rents.xml" value="0.34322916666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_customer_details.xml" value="0.33" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_customer_history.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_customer_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_image_viewer.xml" value="0.2827476038338658" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_maps.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_pdf.xml" value="0.26765799256505574" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_plot__active_.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_plot_details.xml" value="0.5" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_rent_details.xml" value="0.22" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_sites_list.xml" value="0.3046875" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_sites_purchase_summary.xml" value="0.3140625" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/activity_transaction_details_.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/adapter_payment_list.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/adapter_pdf.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/agreement_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/dailog_site_payment_edit.xml" value="0.34322916666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/dialog_admin_pay_emi.xml" value="0.33" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/dialog_edit_plot_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/dialog_payment_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/dialog_plot_info.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/dialog_sites_payment_add.xml" value="0.3140625" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/dialog_update_payment.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/drawer_list_menu_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/final_total_layout.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/fragment_cash_payment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/fragment_cash_receive.xml" value="0.22" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/fragment_rent_payment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/fragmenttrans_payment.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/pdf_activity.xml" value="0.22" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/title_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/layout/title_layout_for_rent.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/app/src/main/res/menu/menu_site_edit_delete.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/filepicker/src/main/res/layout/filepicker_gallery.xml" value="0.3098958333333333" />
+        <entry key="..\:/Users/Keval/Android Studio Projects/Aditya-ems-maestro-Real-Estate/Aditya-Group-Real-Estate/filepicker/src/main/res/menu/filegallery_menu.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

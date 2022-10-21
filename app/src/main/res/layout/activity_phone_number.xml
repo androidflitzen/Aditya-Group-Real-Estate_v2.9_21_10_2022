@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:weightSum="2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="@dimen/f200"
+            android:layout_height="@dimen/f200"
+            android:layout_marginTop="@dimen/_20sdp"
+            app:srcCompat="@drawable/ashirvad_logo" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:gravity="bottom"
+            android:orientation="vertical"
+            android:padding="@dimen/_8sdp">
+
+            <EditText
+                android:id="@+id/edt_phone_numbers"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/login_bg"
+                android:cursorVisible="true"
+                android:drawableLeft="@drawable/ic_phone"
+                android:drawablePadding="16dp"
+                android:drawableTint="@color/black"
+                android:focusableInTouchMode="true"
+                android:hint="Enter Your Phone Number"
+                android:inputType="number"
+                android:maxLength="10"
+                android:padding="@dimen/_10sdp"
+                android:singleLine="true"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@color/black"
+                android:textColorHint="@color/agenda_item_declined_color_dark"
+                android:textCursorDrawable="@color/black"
+                android:textSize="@dimen/_12sdp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="@dimen/_10sdp">
+
+                <TextView
+                    android:id="@+id/btnSubmit"
+                    android:layout_width="@dimen/_150sdp"
+                    android:layout_height="@dimen/_40sdp"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:layout_marginRight="@dimen/_5sdp"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:background="@drawable/login_btn"
+                    android:gravity="center"
+                    android:padding="@dimen/_5sdp"
+                    android:text="SUBMIT"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_18sdp"
+                    android:visibility="visible" />
+
+                <ProgressBar
+                    android:id="@+id/progress_bar"
+                    android:layout_width="@dimen/f28"
+                    android:layout_height="@dimen/f28"
+                    android:indeterminate="true"
+                    android:gravity="center"
+                    android:layout_centerInParent="true"
+                    android:indeterminateTint="@color/colorPrimary"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
